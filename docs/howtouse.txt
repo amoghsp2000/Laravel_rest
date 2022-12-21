@@ -1,0 +1,5 @@
+1.After Cloning this project run command 'composer install' 
+2.Second create the env file same as env.example
+3.Create the database with name laravel and give the that name in .env file as DB_DATABASE And do check the config settings like port number etc // I Have Used Mysql database
+4.After Creating the database import the laravel.sql file in your AdminPanel of mysql better use xampp server it has inbuilt phpmyadmin.
+5.Run with 'php artisan serve' command
