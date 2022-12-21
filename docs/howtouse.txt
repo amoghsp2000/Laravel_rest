@@ -3,3 +3,6 @@
 3.Create the database with name laravel and give the that name in .env file as DB_DATABASE And do check the config settings like port number etc // I Have Used Mysql database
 4.After Creating the database import the laravel.sql file in your AdminPanel of mysql better use xampp server it has inbuilt phpmyadmin.
 5.Run with 'php artisan serve' command
+
+6.Go to http://localhost/register  for new user
+7.After that You can login by changing the url to http://localhost/login 
